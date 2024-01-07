@@ -1,5 +1,6 @@
 {
 	"author": "Ran Dom",
+	"description": "a fcc course on backend dev and APIs",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
